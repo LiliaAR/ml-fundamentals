@@ -33,3 +33,4 @@ Machine learning experiments and learning journey.
 # Jun 6
 # Jun 9
 # Jun 16
+# Jun 20
