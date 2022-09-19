@@ -50,3 +50,4 @@ Machine learning experiments and learning journey.
 # Sep 6
 # Sep 12
 # Sep 15
+# Sep 19
