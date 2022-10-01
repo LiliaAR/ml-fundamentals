@@ -55,3 +55,4 @@ Machine learning experiments and learning journey.
 # Sep 26
 # Sep 29
 # Sep 30
+# Sep 30 evening
