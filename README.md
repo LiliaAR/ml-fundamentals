@@ -1,58 +1,73 @@
 # ML Fundamentals
 
-Machine learning experiments and learning journey.
-# Jan 31
-# Feb 26
-# Mar 30
-# Apr 29
-# May 28
-# Jun 30
-# Jul 28
-# Aug 31
-# Sep 29
-# Oct 31
-# Nov 28
-# Nov 30
-# Dec 22
-# Dec 28
-# Dec 30
-# Mar 5
-# Mar 12
-# Mar 23
-# Mar 27
-# Apr 4
-# Apr 8
-# Apr 16
-# Apr 20
-# Apr 24
-# Apr 30
-# May 7
-# May 15
-# May 29
-# Jun 2
-# Jun 6
-# Jun 9
-# Jun 16
-# Jun 20
-# Jun 23
-# Jun 27
-# Jun 30
-# Jul 10
-# Jul 20
-# Aug 3
-# Aug 7
-# Aug 11
-# Aug 19
-# Aug 23
-# Aug 27
-# Aug 31
-# Sep 2
-# Sep 6
-# Sep 12
-# Sep 15
-# Sep 19
-# Sep 22
-# Sep 26
-# Sep 29
-# Sep 30
-# Sep 30 evening
+Learning journey through machine learning, NLP, deep learning, and transformers (2022).
+
+## 🎯 Overview
+
+Comprehensive exploration of ML fundamentals building toward production AI systems. Covers classical ML algorithms, NLP techniques, deep learning architectures, and modern transformer models.
+
+## 📚 Learning Path
+
+### Classical Machine Learning (Q1 2022)
+- Linear Regression, Logistic Regression
+- Decision Trees, Random Forests
+- K-Means, DBSCAN clustering
+- Dimensionality reduction (PCA, t-SNE)
+- Model evaluation and validation
+
+### Natural Language Processing (Q2 2022)
+- Text preprocessing and tokenization
+- TF-IDF and word embeddings
+- NLTK and spaCy pipelines
+- Sentiment analysis
+- Named Entity Recognition (NER)
+
+### Deep Learning (Q3 2022)
+- Neural network fundamentals
+- PyTorch basics and training loops
+- CNNs for computer vision
+- RNNs and LSTMs for sequences
+- Attention mechanisms
+
+### Transformers & Modern NLP (Q4 2022)
+- Transformer architecture deep dive
+- BERT and fine-tuning
+- GPT architecture understanding
+- Hugging Face Transformers library
+- Transfer learning strategies
+
+## 🛠️ Tech Stack
+
+**ML Libraries:** scikit-learn, pandas, numpy  
+**Deep Learning:** PyTorch, TensorFlow  
+**NLP:** NLTK, spaCy, Hugging Face Transformers  
+**Visualization:** matplotlib, seaborn  
+**Language:** Python 3.10+
+
+## 📊 Key Milestones
+
+- ✅ Built 50+ ML models from scratch
+- ✅ Completed 10+ Kaggle-style projects
+- ✅ Implemented transformer architecture from paper
+- ✅ Fine-tuned BERT for text classification
+- ✅ Created end-to-end ML pipelines
+
+## 🎓 What This Demonstrates
+
+- Strong ML foundations before jumping to LLMs
+- Systematic learning approach
+- Implementation skills (not just theory)
+- Understanding of model internals
+- Bridge from classical ML to modern AI
+
+## 🚀 Evolution
+
+This foundation enabled:
+- Production fraud detection systems (XGBoost, Random Forest)
+- Enterprise RAG platforms (embeddings, transformers)
+- Multi-modal AI (CLIP, Whisper)
+- LLM-powered applications (GPT-4o, Claude)
+
+---
+
+**Fundamentals first.** Understanding classical ML and deep learning makes you better at working with LLMs and production AI systems.
